@@ -1,4 +1,4 @@
 # 👋 Minha informação
-- Linguagens: **Python**
-- Projetos: **...**
-- Experiencia: **16 meses**
+- Linguagens: **Python**, **C#**
+- Projetos: **ReWookz Games**
+- Experiencia: **+16 meses**
